@@ -136,7 +136,7 @@ These examples show why startups buy D&O (not promises of coverage):
 - **Regulatory inquiry:** A regulatory investigation leads to defense costs for individual directors or officers named in the inquiry.
 - **Merger dispute:** During an acquisition, allegations surface against leadership about disclosure adequacy and process fairness.
 
-Startups do not need to be public to face governance claims. Private company disputes are common, especially around financing, control, and executive decisions.
+Startups do not need to be public to face governance claims. According to [Chubb](https://www.chubb.com/us-en/business-insurance/d-and-o-liability.html), private company D&O claims have increased significantly, with investor disputes, regulatory investigations, and employment-related allegations among the most common triggers. Private company disputes are common, especially around financing, control, and executive decisions.
 
 ---
 

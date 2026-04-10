@@ -101,6 +101,22 @@ Coverage varies by policy form, but fiduciary liability generally addresses alle
 
 ---
 
+## The Growing Risk of Fiduciary Claims
+
+Fiduciary litigation has increased significantly in recent years, driven by greater awareness of plan fees, investment options, and fiduciary obligations. According to the [Government Accountability Office (GAO)](https://www.gao.gov/products/gao-21-357), excessive fee litigation against 401(k) plan sponsors has expanded beyond large corporations to include mid-sized and smaller plan sponsors.
+
+| Trend | Impact for Startups |
+|---|---|
+| Excessive fee lawsuits expanding to smaller plans | Companies with 100+ participants increasingly targeted |
+| Average 401(k) lawsuit settlement | $5–$15 million for large plans; defense costs alone $250K–$1M+ |
+| DOL enforcement actions increasing | More audits and investigations of plan administration |
+| Participant awareness growing | Employees are more likely to compare fees and performance |
+| Vendor consolidation | Fewer vendor choices can create fiduciary scrutiny around selection process |
+
+Even for startups with smaller plans, the defense cost exposure alone makes fiduciary liability coverage worthwhile. A DOL investigation or participant lawsuit can generate $100,000+ in legal fees before any liability determination.
+
+---
+
 ## Common Fiduciary Claim Scenarios for Startups
 
 These examples illustrate typical claim triggers (not promises of coverage):
@@ -110,6 +126,7 @@ These examples illustrate typical claim triggers (not promises of coverage):
 - **Enrollment error:** An eligibility or enrollment error causes an employee to miss benefits coverage during a critical period, and they allege harm from the gap.
 - **Inaccurate communications:** A plan communication contains inaccurate information about benefits, and employees claim they relied on it when making decisions.
 - **Vendor failure:** A vendor mistake leads to plan administration issues — incorrect contributions, delayed enrollments, or data errors — and the company is drawn into the dispute as the plan sponsor.
+- **Plan transition errors:** During a vendor migration (changing recordkeepers or TPAs), contributions are misrouted or blackout periods are mismanaged, and participants allege harm from the disruption.
 
 ---
 

@@ -78,6 +78,24 @@ HNOA is often inexpensive relative to the downside risk — a single severe auto
 
 ---
 
+## Why Auto Liability Is a Bigger Risk Than Most Founders Think
+
+Auto accidents are one of the most common and costly categories of liability in the United States. According to the [National Highway Traffic Safety Administration (NHTSA)](https://www.nhtsa.gov/press-releases/traffic-crashes-cost-2019), motor vehicle crashes cost the US economy over $340 billion annually. For employers, the liability exposure when employees drive for work is significant:
+
+| Metric | Data Point |
+|---|---|
+| Annual US motor vehicle crash costs | $340+ billion |
+| Average bodily injury auto claim | $20,000–$25,000 (minor); $100,000+ (serious) |
+| Employer liability in work-related accidents | Employers are routinely named under respondeat superior |
+| Percentage of work-related driving accidents | ~25% of vehicle accidents involve work-related driving |
+| Average auto liability lawsuit defense cost | $15,000–$75,000+ |
+
+The key risk for startups: under the legal doctrine of *respondeat superior*, employers can be held liable when employees cause accidents while acting within the scope of their employment. This means if an employee causes an accident on the way to a client meeting, the injured party can sue your company — not just the driver. According to [The Hartford](https://www.thehartford.com/commercial-auto-insurance/hired-non-owned-auto), HNOA is one of the most commonly overlooked coverages for businesses that don't own fleet vehicles.
+
+Without HNOA, your CGL policy will not cover auto-related claims (auto is a standard CGL exclusion), leaving a gap in your liability protection.
+
+---
+
 ## What HNOA Covers vs. What It Doesn't
 
 ### What HNOA Typically Covers

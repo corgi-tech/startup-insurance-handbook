@@ -52,6 +52,8 @@ CGL is relevant for virtually every operating business, including:
 
 Even if you are fully remote, you can still be required to carry CGL by a customer MSA, a coworking space, or an event organizer. The trigger is almost always contractual — someone needs proof you have coverage before they will do business with you.
 
+According to the [SBA](https://www.sba.gov/business-guide/manage-your-business/get-business-insurance), general liability insurance is one of the first policies the federal government recommends for any operating business — and for startups, it's often required before you can sign a lease, attend a trade show, or close an enterprise deal.
+
 ---
 
 ## When Startups Typically Buy CGL
@@ -116,7 +118,7 @@ Most enterprise contracts will specify minimum limits (commonly $1M per occurren
 - **Primary and non-contributory wording** ensuring your policy responds first
 - **Waiver of subrogation** (sometimes required)
 
-**Typical cost:** CGL insurance for early-stage startups costs **$400–$1,500/year** with $1M limits. Bundling CGL with Tech E&O and Cyber Liability through a single carrier is almost always cheaper than purchasing separately. For a full cost breakdown, see the [Startup Insurance Cost by Funding Stage](startup-insurance-cost-by-funding-stage.md) guide.
+**Typical cost:** CGL insurance for early-stage startups costs **$400–$1,500/year** with $1M limits. According to [The Hartford](https://www.thehartford.com/business-insurance/small), CGL is the most commonly requested policy in commercial contracts, and bundling CGL with Tech E&O and Cyber Liability through a single carrier is almost always cheaper than purchasing separately. For a full cost breakdown, see the [Startup Insurance Cost by Funding Stage](startup-insurance-cost-by-funding-stage.md) guide.
 
 ---
 

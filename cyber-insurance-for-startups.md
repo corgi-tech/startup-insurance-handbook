@@ -71,7 +71,7 @@ Cyber insurance is relevant for any startup that handles data, but it is especia
 | **Developer tools and APIs** | Have access to customer systems and data |
 | **Any company with employees** | Exposed to phishing, credential stuffing, and BEC attacks |
 
-Even small teams face cyber risk. Phishing, credential stuffing, business email compromise, and vendor incidents do not wait for companies to reach a certain size. The risk starts early and grows with customers, data volume, and integrations.
+Even small teams face cyber risk. According to [Verizon's Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/), small businesses are involved in over 40% of data breaches, and phishing remains the most common initial attack vector. Credential stuffing, business email compromise, and vendor incidents do not wait for companies to reach a certain size. The risk starts early and grows with customers, data volume, and integrations.
 
 ---
 
@@ -103,7 +103,7 @@ Coverage depends on the carrier and policy form, but common components include:
 | **Third-party privacy and security liability** | Defense costs for lawsuits alleging failure to protect data |
 | **Regulatory defense** | Legal costs for investigations (fines/penalties coverage varies by law) |
 
-The most important practical point: cyber insurance is as much about access to experienced incident response resources as it is about the financial limit. When a breach happens at 2 AM, having a carrier that can immediately connect you with forensic investigators and breach counsel is invaluable.
+The most important practical point: cyber insurance is as much about access to experienced incident response resources as it is about the financial limit. According to the [National Conference of State Legislatures (NCSL)](https://www.ncsl.org/technology-and-communication/security-breach-notification-laws), all 50 US states have enacted data breach notification laws, meaning any company that experiences a breach faces mandatory notification obligations regardless of size. When a breach happens at 2 AM, having a carrier that can immediately connect you with forensic investigators and breach counsel is invaluable.
 
 ---
 

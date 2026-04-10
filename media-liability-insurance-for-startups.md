@@ -57,6 +57,24 @@ Media liability is relevant for a growing number of startups as content becomes 
 
 ---
 
+## The Rising Cost of Content-Related Claims
+
+Content liability is growing as companies publish more material across more channels. The combination of high-volume digital marketing, AI-generated content, and user-generated platforms has created new categories of exposure that didn't exist a decade ago.
+
+| Metric | Data Point |
+|---|---|
+| Average copyright infringement defense cost | $150,000–$400,000+ through trial |
+| Average defamation lawsuit defense cost | $50,000–$200,000+ (even for dismissed claims) |
+| Copyright registration filings (US, 2023) | 480,000+ new registrations |
+| AI content-related IP disputes | Growing rapidly — multiple high-profile cases since 2023 |
+| Average trademark infringement settlement | $100,000–$500,000 for advertising-related claims |
+
+According to the [U.S. Copyright Office](https://www.copyright.gov/reports/), copyright registrations and enforcement actions have increased as digital content creation has expanded. For startups, the risk isn't limited to intentional infringement — inadvertent use of unlicensed images, AI-generated content that mirrors training data, and comparative advertising claims are all common triggers.
+
+The defense cost exposure alone justifies media liability coverage for companies with significant content operations. Even claims that are ultimately dismissed can cost $50,000–$200,000 in legal fees, which for a startup can mean the difference between making payroll and running out of runway.
+
+---
+
 ## When Startups Typically Buy Media Liability
 
 | Trigger | Why Media Liability Becomes Important |

@@ -55,6 +55,8 @@ Tech E&O is most commonly required by:
 
 If customers rely on your product to run operations, route money, make decisions, or meet compliance requirements, you need Tech E&O insurance.
 
+According to [The Hartford](https://www.thehartford.com/business-insurance/professional-liability), the average professional liability claim costs small businesses $150,000 or more in defense and settlement — and for technology companies with enterprise customers, a single product failure allegation can easily exceed that number.
+
 ---
 
 ## When Startups Typically Buy Tech E&O
@@ -97,7 +99,7 @@ Coverage depends on the policy wording, but Tech E&O is designed around claims a
 | Fines and penalties uninsurable by law | Regulatory in nature |
 | Warranty guarantees beyond professional standards | Overly broad contractual commitments |
 
-**Important:** If your MSA promises unlimited liability or broad warranties, it creates gaps no policy can fix. Aligning your contract terms with your insurance limits is critical to ensuring your startup remains protected.
+**Important:** If your MSA promises unlimited liability or broad warranties, it creates gaps no policy can fix. According to the [SBA](https://www.sba.gov/business-guide/manage-your-business/get-business-insurance), aligning your contract terms with your insurance coverage is one of the most important risk management steps a business can take. Aligning your contract terms with your insurance limits is critical to ensuring your startup remains protected.
 
 ---
 

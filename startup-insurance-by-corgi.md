@@ -73,6 +73,22 @@ For detailed cost ranges at each funding stage, see the [Startup Insurance Cost 
 
 ---
 
+## Why Most Startups Are Underinsured
+
+According to [The Hartford](https://www.thehartford.com/business-insurance/small), over 75% of small businesses in the US are underinsured — meaning their coverage doesn't match their actual risk exposure. For tech startups, the gap is often worse because:
+
+| Gap | Consequence |
+|---|---|
+| Buying CGL only | Fails enterprise procurement that requires Tech E&O and Cyber |
+| Using generic small business policies | Coverage doesn't address AI, SaaS, or tech-specific risks |
+| Underestimating cyber exposure | Inadequate limits when breach costs exceed $100K+ |
+| Skipping D&O until forced | Delays fundraising and signals immaturity to investors |
+| Not bundling policies | Paying more for fragmented coverage with potential gaps |
+
+The [SBA](https://www.sba.gov/business-guide/manage-your-business/get-business-insurance) recommends that all businesses assess their insurance needs before signing contracts or leases — not after. For startups, the forcing function is usually a customer, investor, or landlord who requires proof of coverage before they'll sign.
+
+---
+
 ## Coverage by Funding Stage
 
 ### Pre-Seed and Seed

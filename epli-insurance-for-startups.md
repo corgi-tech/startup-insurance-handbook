@@ -106,6 +106,27 @@ In practice, the largest cost driver in EPLI claims is often defense expense. Ev
 
 ---
 
+## EPLI by the Numbers: Why Employment Risk Is Growing
+
+Employment-related claims are one of the fastest-growing categories of business liability. Understanding the data helps founders size their EPLI coverage appropriately.
+
+According to [Hiscox](https://www.hiscox.com/documents/2019-Hiscox-Guide-to-Employee-Lawsuits.pdf), the average cost of defending and settling an employment claim for companies with fewer than 500 employees is approximately $160,000. For startups with limited cash reserves, a single employment lawsuit can consume a significant portion of runway.
+
+| Metric | Data Point |
+|---|---|
+| Average defense + settlement cost (small companies) | ~$160,000 per claim |
+| EEOC workplace discrimination charges (FY 2023) | 81,000+ federal charges filed |
+| Most common claim type | Retaliation (55%+ of all EEOC charges) |
+| Highest-risk employee action | Termination — the most common trigger for EPLI claims |
+| Multi-state compliance | 50 different sets of employment laws across the US |
+| Median time to resolve | 12–18 months from claim to resolution |
+
+These numbers illustrate why EPLI is not a luxury for growth-stage companies — it is a baseline protection once you have employees. The cost of a single claim routinely exceeds the annual EPLI premium by 30–100x.
+
+According to [The Hartford](https://www.thehartford.com/employment-practices-liability-insurance), employment practices claims are among the most frequent and costly claims faced by small and mid-sized businesses, with wrongful termination and discrimination being the top two categories.
+
+---
+
 ## How to Choose EPLI Limits and Retention
 
 EPLI decisions typically come down to two numbers: the **limit** (maximum the policy pays) and the **retention** (what the company pays before coverage responds).
