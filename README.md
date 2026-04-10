@@ -37,6 +37,23 @@ These guides explain specific insurance policies, what they cost, and when your 
 |---|---|
 | [How Much Does Startup Insurance Cost?](startup-insurance-cost-by-funding-stage.md) | Data-backed cost ranges at every stage, from pre-seed ($2K–$4K/yr) through growth ($30K–$100K+/yr). Explains what policies you need, when you need them, and how to lower premiums. |
 | [D&O Insurance for Startups: 5 Ways It Secures Your Future](do-insurance-for-startups.md) | Why Directors & Officers insurance is required for venture-backed companies. Covers fundraising requirements, personal asset protection, executive recruiting, cyber liability overlap, and bankruptcy scenarios. |
+| [D&O Insurance: What It Covers and How to Buy It](do-insurance-startup-guide.md) | Practical D&O buying guide. Side A/B/C coverage explained, claim scenarios, limits and retention guidance, and venture-backed D&O requirements. |
+| [CGL Insurance for Startups](cgl-insurance-for-startups.md) | Commercial General Liability explained. What CGL covers vs. doesn't, contract requirements (COI, additional insured), typical limits, and claim scenarios. |
+| [Cyber Insurance for Startups](cyber-insurance-for-startups.md) | First-party and third-party cyber coverage. Breach response, ransomware, business interruption, regulatory defense, and how to choose limits. |
+| [Tech E&O Insurance for Startups](tech-eo-insurance-for-startups.md) | Technology Errors & Omissions explained. Product failure claims, claims-made coverage, enterprise procurement requirements, and AI-related E&O risks. |
+| [EPLI Insurance for Startups](epli-insurance-for-startups.md) | Employment Practices Liability explained. Wrongful termination, discrimination, harassment, wage and hour limitations, and scaling with headcount. |
+| [Fiduciary Liability Insurance for Startups](fiduciary-liability-insurance-for-startups.md) | Benefit plan administration coverage. 401(k) governance, vendor selection liability, ERISA obligations, and fiduciary vs. fidelity bond distinction. |
+| [HNOA Insurance for Startups](hnoa-insurance-for-startups.md) | Hired and Non-Owned Auto coverage. Why CGL excludes auto, personal car and rental car liability, and common procurement requirements. |
+| [Media Liability Insurance for Startups](media-liability-insurance-for-startups.md) | Content and advertising risk coverage. Defamation, copyright, trademark in advertising, AI-generated content risk, and platform liability. |
+
+### Founder Guides
+
+Comprehensive overviews for founders navigating insurance decisions for the first time.
+
+| Guide | Summary |
+|---|---|
+| [Startup Insurance Guide for Founders](startup-insurance-guide-for-founders.md) | End-to-end guide covering every policy, what to buy by stage, procurement and contract alignment, pricing factors, and common founder mistakes. |
+| [Startup Insurance by Corgi](startup-insurance-by-corgi.md) | The complete Corgi coverage stack. Full policy table, stage-by-stage recommendations, common mistakes, and why startups choose a carrier over a broker. |
 
 ---
 
